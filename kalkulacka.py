@@ -1,6 +1,5 @@
-"""
-Vytvořte program, který zpracuje uživatelem zadané dvě čísla a na obrazovku vytiskne součet, rozdíl, součin a podíl.
-"""
+# Vytvořte program, který zpracuje uživatelem zadané dvě čísla a na obrazovku vytiskne součet, rozdíl, součin a podíl.
+
 
 
 
