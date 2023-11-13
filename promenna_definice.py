@@ -2,9 +2,9 @@
 # Ihned po zadání vypracujte danou úlohu. Jakmile budete mít hotovo, můžete přejít na další úlohu.
 
 # Pomocí znaku přiřazení přiřadťe do proměnné 'message' hodnotu "Pozdrav z programu"
+# Řádky s příkazy print neupravujte. Slouží pro zobrazení výstupu při spuštění.
 
-
-# Deklarujte promměnou Jméno. Hodnota proměnné bude Vaše jméno.
+# Deklarujte promměnou Jméno. Hodnotu proměnnou ponechejte bez změny.
 message ??? "Pozdrav z programu"
 print("message = " + str(message))
 
