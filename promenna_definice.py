@@ -5,7 +5,7 @@
 # Řádky s příkazy print neupravujte. Slouží pro zobrazení výstupu při spuštění.
 
 # Deklarujte promměnou Jméno. Hodnotu proměnnou ponechejte bez změny.
-message ??? "Pozdrav z programu"
+message = "Pozdrav z programu"
 print("message = " + str(message))
 
 # Přiřaďte proměnné message jakýkoli vlastní obsah
